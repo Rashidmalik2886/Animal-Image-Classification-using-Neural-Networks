@@ -1,0 +1,16 @@
+Werkzeug
+Flask
+numpy
+Keras
+gevent
+pillow
+h5py
+tensorflow
+pandas
+hashlib
+os
+pathlib
+scipy
+sys
+PIL
+resizeimage
