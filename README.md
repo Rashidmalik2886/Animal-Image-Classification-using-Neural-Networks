@@ -1,2 +1,3 @@
-# Animal Image Classification using Neural Networks.
-This is my last year on going project. In this project, Animal Images will be classified using Convoltionary Neural Network
+First install Python 3
+then install all libraries given in requirments.txt
+run python main.py
